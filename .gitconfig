@@ -1,0 +1,7 @@
+[user]
+	name = gitscooby
+	email = archanaarchu2795@gmail.com
+[core]
+	editor = vim
+[diff]
+	tool = vim.diff
